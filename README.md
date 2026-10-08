@@ -32,7 +32,4 @@ npm run codegen       # enregistrer des actions pour découvrir les locators
 - **Locators orientés utilisateur** : `getByRole`, `getByPlaceholder`, puis `getByTestId` (attribut `data-test` configuré dans `playwright.config.ts`). Aucun sélecteur CSS ou XPath.
 - **Aucune attente fixe** : uniquement des assertions web-first (`expect(...).toHaveText()`, etc.).
 - **CI GitHub Actions** : vérification des types, exécution des tests et publication du rapport à chaque push.
-
-## Ce que j'ai appris
-
-_À compléter au fil des niveaux._
+- **Archiecture visé** : doc/ARCHITECTURE.md
