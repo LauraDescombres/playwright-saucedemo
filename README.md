@@ -1,5 +1,7 @@
 # Tests end-to-end Playwright — SauceDemo
 
+![Playwright Tests](https://github.com/LauraDescombres/playwright-saucedemo/actions/workflows/playwright.yml/badge.svg)
+
 Suite de tests automatisés en **Playwright + TypeScript** sur [SauceDemo](https://www.saucedemo.com), une boutique de démonstration conçue pour l'entraînement au test.
 
 ## Ce que couvre la suite
